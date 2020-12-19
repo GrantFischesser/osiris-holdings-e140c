@@ -7,8 +7,8 @@ sections:
     image_alt: App preview
     title: Commercial Real Estate & Ecommerce
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      We invest for long-term steady returns focusing on cash flow & compounding
+      growth.
     actions:
       - label: Learn More
         url: /features
