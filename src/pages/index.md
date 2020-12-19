@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/City_8_A.jpg
     image_alt: App preview
     title: Commercial Real Estate & Ecommerce
     content: >-
