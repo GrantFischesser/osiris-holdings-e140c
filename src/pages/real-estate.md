@@ -33,6 +33,10 @@ sections:
 
       * Long term ownership.
 
+      * Single story drive up. 
+
+      * Gated or non-gated are considered.
+
       * Little to no internet precense with low levels of facility automation.
 
 
