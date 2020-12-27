@@ -1,5 +1,5 @@
 ---
-title: Real Estate
+title: Ecommerce
 meta_title: Osiris Holdings | Real Estate
 meta_description: lorem-ipsum
 canonical_url: lorem-ipsum
