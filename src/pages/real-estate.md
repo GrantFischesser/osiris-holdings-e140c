@@ -38,9 +38,6 @@ sections:
 
       Please contact us if you have any properties you'd like us to consider.
     actions:
-      - label: Free Trial
-        url: /signup
-        style: primary
       - label: View Demo
         url: '#'
         style: secondary
