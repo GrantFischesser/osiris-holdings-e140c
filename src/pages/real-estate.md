@@ -12,7 +12,7 @@ sections:
     background: gray
     image: images/56.svg
     image_alt: App preview on a phone and tablet
-    title: Commercial Real Estate
+    title: Commercial Real Estate Investment
     content: >-
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
