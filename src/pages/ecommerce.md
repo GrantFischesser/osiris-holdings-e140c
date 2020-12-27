@@ -12,20 +12,20 @@ sections:
     image_alt: App preview on a phone and tablet
     title: Ecommerce for long term cashflow.
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      Osiris Holdings has started multiple successful ecommerce DTC
+      (Direct-to-Consumer) brands. We've focused on consistent cash flow
+      creation for steady growth.
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      * Combining PPC (Pay-Per-Click) and Organic Reach for Growth.
 
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
+      * Sourcing products from abroad & domestic manufactuers.
 
-      * Phasellus ut enim non lorem venenatis rutrum.
+      * Creating systems for scablable growth.
 
 
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      Our profits are invested back into our business to further grow and
+      systemize.
     actions:
       - label: Free Trial
         url: /signup
