@@ -7,7 +7,7 @@ meta_description: >-
 canonical_url: lorem-ipsum
 no_index: false
 sections:
-  - section_id: features
+  - section_id: real-estate
     type: section_content
     background: gray
     image: images/56.svg
