@@ -30,7 +30,7 @@ sections:
   - section_id: contact-us
     type: section_cta
     title: Get in Touch
-    subtitle: to learn more about our operations
+    subtitle: Learn more about our operations
     actions:
       - label: Get Started
         url: '#'
