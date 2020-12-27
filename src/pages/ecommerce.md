@@ -10,7 +10,7 @@ sections:
     background: gray
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
-    title: Ecommerce creation for long term cashflow.
+    title: Ecommerce for long term cashflow.
     content: >-
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
