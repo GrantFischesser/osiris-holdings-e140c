@@ -2,7 +2,7 @@
     "base_font": "nunito-sans",
     "palette": "blue",
     "header": {
-        "logo_img": "images/logo.svg",
+        "logo_img": "images/LogoMakr-1XXvSK.png",
         "logo_img_alt": "Osiris Holdings",
         "has_nav": true,
         "nav_links": [
