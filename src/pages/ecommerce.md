@@ -35,7 +35,7 @@ sections:
       ecommerce.
     actions:
       - label: Contact Us
-        url: '#'
+        url: contact-us
         style: secondary
 template: landing
 ---
