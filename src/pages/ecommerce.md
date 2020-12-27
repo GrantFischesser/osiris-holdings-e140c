@@ -26,10 +26,7 @@ sections:
 
       Our profits are invested back into our business to further grow and
       systemize.
-    actions:
-      - label: View Demo
-        url: '#'
-        style: secondary
+    actions: []
   - section_id: call-to-action
     type: section_cta
     title: This Is Call to Action Block!
