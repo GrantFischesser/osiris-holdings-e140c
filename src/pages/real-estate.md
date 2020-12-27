@@ -45,7 +45,7 @@ sections:
       Learn more about our operations and future growth strategies for real
       estate investment.
     actions:
-      - label: Get Started
+      - label: Contact Us
         url: '#'
         style: secondary
 template: landing
