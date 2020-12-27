@@ -14,20 +14,29 @@ sections:
     image_alt: App preview on a phone and tablet
     title: Commercial Real Estate Investment
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      ##### Our focus is multifamily 100+ units and self-storage facilities in
+      Ohio. 
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      ###### Multifamily:
 
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
+      * 100+ units in Cincinnati, Columbus, Dayton, and the surrounding areas. 
 
-      * Phasellus ut enim non lorem venenatis rutrum.
+      * Moderate to heavy value-add properties. 
+
+      * Long term ownership. 
 
 
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      ###### Self Storage
+
+      * Rural/Small Town facilities under 400 units.
+
+      * Long term ownership.
+
+      * Little to no internet precense with low levels of facility automation.
+
+
+      Please contact us if you have any properties you'd like us to consider.
     actions:
       - label: Free Trial
         url: /signup
