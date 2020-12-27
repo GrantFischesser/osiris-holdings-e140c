@@ -1,7 +1,7 @@
 ---
 title: Real Estate
 meta_title: Osiris Holdings | Real Estate
-meta_description: lorem-ipsum
+meta_description: 'Osiris Holdings invests in '
 canonical_url: lorem-ipsum
 no_index: false
 sections:
