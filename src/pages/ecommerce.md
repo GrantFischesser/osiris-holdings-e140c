@@ -1,6 +1,6 @@
 ---
 title: Ecommerce
-meta_title: Osiris Holdings | Real Estate
+meta_title: Osiris Holdings | Ecommerce
 meta_description: lorem-ipsum
 canonical_url: lorem-ipsum
 no_index: false
