@@ -38,7 +38,7 @@ sections:
 
       Please contact us if you have any properties you'd like us to consider.
     actions: []
-  - section_id: call-to-action
+  - section_id: contact-us
     type: section_cta
     title: This Is Call to Action Block!
     subtitle: This is an optional description for the call to action block.
