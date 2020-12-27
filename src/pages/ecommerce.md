@@ -8,7 +8,7 @@ sections:
   - section_id: ecommerce
     type: section_content
     background: gray
-    image: images/5_thumb.jpg
+    image: images/56.svg
     image_alt: App preview on a phone and tablet
     title: Ecommerce for long term cashflow.
     content: >-
