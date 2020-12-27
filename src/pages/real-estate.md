@@ -40,7 +40,7 @@ sections:
     actions: []
   - section_id: contact-us
     type: section_cta
-    title: Contact Us
+    title: Get in Touch
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Get Started
