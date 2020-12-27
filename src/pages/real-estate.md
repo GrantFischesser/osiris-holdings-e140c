@@ -10,7 +10,7 @@ sections:
   - section_id: real-estate
     type: section_content
     background: gray
-    image: images/56.svg
+    image: images/1781540.svg
     image_alt: App preview on a phone and tablet
     title: Commercial Real Estate Investment
     content: >-
