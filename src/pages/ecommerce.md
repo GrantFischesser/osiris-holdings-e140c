@@ -1,7 +1,7 @@
 ---
 title: Ecommerce
 meta_title: Osiris Holdings | Ecommerce
-meta_description: Osiris Holdings starts Ecommerce
+meta_description: Osiris Holdings has created multiple sucessful  Ecommerce
 canonical_url: lorem-ipsum
 no_index: false
 sections:
