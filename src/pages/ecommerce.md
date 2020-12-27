@@ -29,7 +29,7 @@ sections:
     actions: []
   - section_id: contact-us
     type: section_cta
-    title: Get in Touch
+    title: Get in Touch to learn more about our operations
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Get Started
