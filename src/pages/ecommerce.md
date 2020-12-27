@@ -1,7 +1,7 @@
 ---
 title: Ecommerce
 meta_title: Osiris Holdings | Ecommerce
-meta_description: lorem-ipsum
+meta_description: Osiris Holdings | Ecommerce
 canonical_url: lorem-ipsum
 no_index: false
 sections:
