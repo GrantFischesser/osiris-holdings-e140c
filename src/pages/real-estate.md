@@ -1,7 +1,9 @@
 ---
 title: Real Estate
 meta_title: Osiris Holdings | Real Estate
-meta_description: Osiris Holdings invests in commercial real estate
+meta_description: >-
+  Osiris Holdings invests in commercial real estate focusing on long term
+  ownership.
 canonical_url: lorem-ipsum
 no_index: false
 sections:
