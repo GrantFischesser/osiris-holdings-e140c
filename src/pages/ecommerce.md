@@ -5,7 +5,7 @@ meta_description: Osiris Holdings has created multiple successful Ecommerce bran
 canonical_url: lorem-ipsum
 no_index: false
 sections:
-  - section_id: features
+  - section_id: ecommerce
     type: section_content
     background: gray
     image: images/feature1.png
