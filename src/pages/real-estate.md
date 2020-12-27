@@ -11,7 +11,7 @@ sections:
     type: section_content
     background: gray
     image: images/1781540.svg
-    image_alt: App preview on a phone and tablet
+    image_alt: Osiris Holdings | Real Estate Investment
     title: Commercial Real Estate Investment
     content: >-
       ##### Our focus is multifamily 100+ units and self-storage facilities in
