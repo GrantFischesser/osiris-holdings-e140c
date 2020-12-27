@@ -27,9 +27,6 @@ sections:
       Our profits are invested back into our business to further grow and
       systemize.
     actions:
-      - label: Free Trial
-        url: /signup
-        style: primary
       - label: View Demo
         url: '#'
         style: secondary
