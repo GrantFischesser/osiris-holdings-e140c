@@ -41,7 +41,9 @@ sections:
   - section_id: contact-us
     type: section_cta
     title: Get in Touch
-    subtitle: This is an optional description for the call to action block.
+    subtitle: >-
+      Learn more about our operations and future growth strategies for
+      ecommerce.
     actions:
       - label: Get Started
         url: '#'
