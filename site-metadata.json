@@ -3,7 +3,7 @@
     "palette": "blue",
     "header": {
         "logo_img": "images/logo.svg",
-        "logo_img_alt": "Logo",
+        "logo_img_alt": "Osiris Holdings",
         "has_nav": true,
         "nav_links": [
             {
@@ -12,13 +12,13 @@
                 "style": "link"
             },
             {
-                "label": "Features",
-                "url": "/features",
+                "label": "Real Estate",
+                "url": "/real-estate",
                 "style": "link"
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
+                "label": "Ecommerce",
+                "url": "/ecommerce",
                 "style": "link"
             },
             {
@@ -27,7 +27,7 @@
                 "style": "link"
             },
             {
-                "label": "Sign Up",
+                "label": "Contact Us",
                 "url": "/signup",
                 "style": "primary"
             }
