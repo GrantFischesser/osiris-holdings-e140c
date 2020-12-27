@@ -42,8 +42,8 @@ sections:
     type: section_cta
     title: Get in Touch
     subtitle: >-
-      Learn more about our operations and future growth strategies for
-      ecommerce.
+      Learn more about our operations and future growth strategies for real
+      estate investment.
     actions:
       - label: Get Started
         url: '#'
