@@ -8,7 +8,7 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image: images/feature1.png
+    image: images/56.svg
     image_alt: App preview on a phone and tablet
     title: The Best Features of Your Services
     content: >-
